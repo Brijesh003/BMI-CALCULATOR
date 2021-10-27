@@ -1,0 +1,12 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmiCalculator.js",
+  "scripts": {
+    "start": "bmiCalculator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
